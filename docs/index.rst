@@ -1,5 +1,10 @@
 Activate Your Trend Micro Subscription at www.trendmicro.com.au activate code Australia
 =========================================================================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trend Micro</a>
+   </div>
 
 Looking to **Activate Your Trend Micro Subscription** in Australia? If you've already purchased Trend Micro antivirus software and need to get started, this guide is just what you need. Many users search for **www.trendmicro.com.au activate code** after buying their software either online or through a retail store. Whether you're installing Trend Micro on a new computer or renewing your current setup, activation is crucial for full protection.
 
