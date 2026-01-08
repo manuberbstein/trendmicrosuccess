@@ -6,7 +6,7 @@ Looking to **Activate Your Trend Micro Subscription** in Australia? If you've al
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desk-trendmicro.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trend Micro</a>
+       <a href="https://mytrendmicro.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Trend Micro</a>
    </div>
 The process to **Activate Your Trend Micro Subscription** is simple when you follow the right steps. In this guide, we’ll walk you through downloading the software, entering your activation key, and setting up your account on **www.trendmicro.com.au activate code**.
 
@@ -200,3 +200,4 @@ Don’t wait to protect your personal or business devices—**Activate Your Tren
 
 For further help, always visit:  
 `https://helpcenter.trendmicro.com <https://helpcenter.trendmicro.com>`_
+
